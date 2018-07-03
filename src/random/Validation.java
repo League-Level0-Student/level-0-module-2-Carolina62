@@ -23,7 +23,7 @@ public class Validation {
 		// 3. Use each value of randomNumber to give the user a random compliment.
 		if(randomNumber == 0) {
 			JOptionPane.showMessageDialog(null, "You are nice");
-		}else
+		}else {
 		
 		// 4. Repeat all the code above 10 times
 		
@@ -31,3 +31,4 @@ public class Validation {
 		
 	}
 	}
+}
